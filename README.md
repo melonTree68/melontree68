@@ -2,9 +2,9 @@
 I am an undergraduate at the School of Artificial Intelligence, Shanghai Jiao Tong University. As a student majoring in AI, I am particularly interested in mathematics.
 
 ## Current Studying Focus
-- Deep learning
+- Deep Learning
 - Mathematics
-  - Abstract algebra
+  - Abstract Algebra
   - Linear Algebra, revisited
   - Calculus, revisited
 
