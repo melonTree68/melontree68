@@ -5,6 +5,7 @@ I am an undergraduate at the School of Artificial Intelligence, Shanghai Jiao To
 - Deep Learning
 - Mathematics
   - Abstract Algebra
+  - Differential Geometry (classical differential geometry of curves and surfaces, rather than modern differential geometry of manifolds)
   - Linear Algebra, revisited
   - Calculus, revisited
 
