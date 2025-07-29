@@ -20,4 +20,4 @@ Planned in the (predictable) future:
 
 As you can see, there is yet a long way ahead, a very very long one ...
 
-**Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`, or just chat with me. :)**
+**Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`. Casual chats are also very welcome. :)**
