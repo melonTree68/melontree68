@@ -1,5 +1,5 @@
 # Hello! I am Zhijie Chen.
-I am an undergraduate at the School of Artificial Intelligence, Shanghai Jiao Tong University. As a student majoring in AI, I am interested in mathematics. I particularly care about the rigor of things, and the essential ideas lurking behind them.
+I am currently a sophomore undergraduate at the School of Artificial Intelligence, Shanghai Jiao Tong University. As a student majoring in AI, I am interested in mathematics. I particularly care about the rigor of things, and the essential ideas lurking behind them.
 
 ## Study Interests and Focus
 Current:
