@@ -1,5 +1,5 @@
 # Hello! I am Zhijie Chen.
-I am an undergraduate at the School of Artificial Intelligence, Shanghai Jiao Tong University. As a student majoring in AI, I am particularly interested in mathematics.
+I am an undergraduate at the School of Artificial Intelligence, Shanghai Jiao Tong University. As a student majoring in AI, I am interested in mathematics. I particularly care about the rigor of things, and the essential ideas lurking behind them.
 
 ## Study Interests and Focus
 Current:
@@ -15,10 +15,9 @@ Planned in the (predictable) future:
 - Mathematics
   - Mathematical Logic
   - Measure Theory
-  - Real Analysis
   - Probability Theory (based upon measure theory)
   - Stochastic Processes
 
-As you can see, there is a long way to travel through, very very long ...
+As you can see, there is yet a long way ahead, a very very long one ...
 
-**Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`.**
+**Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`, or just chat with me. :)**
