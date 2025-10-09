@@ -23,4 +23,4 @@ Planned in the (predictable) future:
 
 As you can see, there is yet a long way ahead...
 
-**Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`.
+**Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`.**
