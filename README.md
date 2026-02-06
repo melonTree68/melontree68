@@ -7,22 +7,19 @@ Welcome to visit my [personal website](https://melontree68.github.io)!
 ## Study Interests and Focus
 
 Current:
-- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- Robotics
 - Mathematics
-  - Abstract Algebra
   - General Topology
   - Differential Geometry 
   - Measure Theory and Real Analysis
 
 Planned in the (predictable) future:
-- Deep Learning
-- Reinforcement Learning
 - Mathematics
-  - Mathematical Logic
   - Probability Theory (based upon measure theory)
   - Stochastic Processes
 
 As you can see, there is yet a long way ahead...
 
 **Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`.**
-
