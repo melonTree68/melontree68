@@ -20,6 +20,4 @@ Planned in the (predictable) future:
   - Probability Theory (based upon measure theory)
   - Stochastic Processes
 
-As you can see, there is yet a long way ahead...
-
 **Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`.**
