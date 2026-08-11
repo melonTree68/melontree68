@@ -29,6 +29,6 @@ This section serves as both a self-introduction and a way to hold myself account
 
 ## Grades
 
-Core average score: 94.84 (rank: 2/66).\\
-16 major-related courses (out of a total of 19) were completed with scores $\ge$ 95.\\
+Core average score: 94.84 (rank: 2/66).  
+16 major-related courses (out of a total of 19) were completed with scores ≥ 95.  
 Mathematical Analysis I & II (Honors) were both completed with scores of 100.
