@@ -4,7 +4,7 @@ I am currently a junior undergraduate at the School of Artificial Intelligence, 
 
 While my major is in artificial intelligence, I am enthusiastic about mathematics and theoretical computer science. I am particularly interested in the underlying structure of things --- the rigor of logical reasoning, the ideas behind formal proofs, and the interconnections between theories. This persistent pursuit of clarity and precision often leads me toward abstract thinking and precise formalism, which I find both challenging and rewarding.
 
-Welcome to visit [my personal website](https://melontree68.github.io)! Feel free to contact me via `zhijie dot chen at sjtu dot edu dot cn`.
+Welcome to visit [my personal website](https://melontree68.github.io)!
 
 ## Study Interests and Focus
 
